@@ -1,0 +1,70 @@
+@CHARSET "ISO-8859-1";
+div#space{
+	height: 550px;
+	width: 800px;
+}
+
+div#sun {
+	height: 250px;
+	width: 250px;
+	top: 150px; 
+    left: 275px;
+    position: absolute;
+    border-radius: 50%;
+    background-color: #fae20a;
+    box-shadow: 0 0 150px orange;
+}
+
+div#earth {
+	height: 50px;
+    width: 50px;
+	top: 400px;
+    left: 375px;
+    position: absolute;   
+    border-radius: 50%;
+    background-color: #3498db;
+    box-shadow: 0 0 34px #3a4385;
+}
+
+div#moon {
+	height: 12px;
+    width: 12px;
+    top: 470px;
+    left: 394px;
+    position: absolute;
+    border-radius: 50%;
+    background: #ebeabc;
+    box-shadow: 0 0 14px #f2f1b5;
+}
+
+div#movebut{
+	width: 100px;
+	height: 50px;
+	top: 30px;
+	left: 30px;
+	position: absolute;
+}
+
+div#stopbut{
+	width: 100px;
+	height: 50px;
+	top: 70px;
+	left: 30px;
+	position: absolute;
+}
+
+div#time{
+	width: 100px;
+	height: 50px;
+	top: 30px;
+	left: 300px;
+	position: absolute;
+}
+
+#jam{
+	width: 100px;
+	height: 30px;
+	top: 30px;
+	left: 350px;
+	position: absolute;
+}
